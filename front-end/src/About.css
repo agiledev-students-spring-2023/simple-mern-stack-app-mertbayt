@@ -1,0 +1,19 @@
+.header {
+
+    margin-bottom: 20px;
+}
+.aboutMe {
+    
+    text-align: left;
+    border: 1px solid black;
+    padding: 10px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.myPhoto {
+    
+    width: 20%;
+    height: auto;
+    margin-top: 30px;
+}
